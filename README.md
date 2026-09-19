@@ -279,7 +279,6 @@ The dashboard analyzes sales across:
 
 It also provides city-level analysis to identify locations with higher sales activity.
 
-### Employee Performance
 
 <img width="1306" height="659" alt="Regions" src="https://github.com/user-attachments/assets/c2145aac-beaf-4b6f-a3d1-a158915255b2" />
 
